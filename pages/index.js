@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
 import Image from 'next/image'
-import axios from 'axios';
 
 function Index() {
   const [image, setImage] = useState()
